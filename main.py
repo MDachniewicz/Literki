@@ -12,9 +12,6 @@ from PyQt5.QtWidgets import (QApplication, QMainWindow, QMessageBox, QLineEdit, 
 from PyQt5 import QtCore, QtWidgets, QtGui
 
 
-def literki_app():
-    pass
-
 class Window(QMainWindow):
     active_row=1
     word_length=5
